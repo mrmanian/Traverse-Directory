@@ -1,6 +1,3 @@
-// Michael Manian
-// CS 288 HW5 Recursive
-
 #include <stdio.h>
 #include <dirent.h>
 #include <stdlib.h>
