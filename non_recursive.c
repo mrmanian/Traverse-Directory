@@ -1,6 +1,3 @@
-// Michael Manian
-// CS 288 HW5 Non-Recursive
-
 #include <stdio.h>
 #include <dirent.h>
 #include <stdlib.h>
